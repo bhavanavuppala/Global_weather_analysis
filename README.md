@@ -35,10 +35,11 @@ To run this project, follow the steps below:
     - `seaborn`
     - `statsmodels`
     - `scikit-learn`
+    - `plotly`
 
     You can install them using pip:
     ```bash
-    pip install pandas matplotlib seaborn statsmodels scikit-learn
+    pip install pandas matplotlib seaborn statsmodels scikit-learn plotly
     ```
 
 4. **Download the dataset**:
